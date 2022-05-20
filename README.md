@@ -1,3 +1,3 @@
 ### LINK TO MY PORTFOLIO WEBSITE: 
-https://lkochar19.github.io/react-portfolio/
+https://lkochar19.github.io/
 
